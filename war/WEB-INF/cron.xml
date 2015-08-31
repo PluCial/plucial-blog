@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cronentries>
+  <cron>
+    <url>/_ah/sessioncleanup?clear</url>
+    <description>Clean up sessions</description>
+    <schedule>every 5 hours</schedule>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=0</url>
+    <description>Activitys Bot Group 0</description>
+    <schedule>every 6 hours</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=1</url>
+    <description>Activitys Bot Group 1</description>
+    <schedule>every 6 hours</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=2</url>
+    <description>Activitys Bot Group 2</description>
+    <schedule>every 6 hours</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=3</url>
+    <description>Activitys Bot Group 3</description>
+    <schedule>every 6 hours</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=4</url>
+    <description>Activitys Bot Group 4</description>
+    <schedule>every 6 hours</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=5</url>
+    <description>Activitys Bot Group 5</description>
+    <schedule>every 6 hours</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=6</url>
+    <description>Activitys Bot Group 6</description>
+    <schedule>every 6 hours</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=7</url>
+    <description>Activitys Bot Group 7</description>
+    <schedule>every 6 hours</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=8</url>
+    <description>Activitys Bot Group 8</description>
+    <schedule>every 6 hours</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=9</url>
+    <description>Activitys Bot Group 9</description>
+    <schedule>every 6 hours</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=10</url>
+    <description>Activitys Bot Group 10</description>
+    <schedule>every 10 minutes</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=11</url>
+    <description>Activitys Bot Group 11</description>
+    <schedule>every 10 minutes</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=12</url>
+    <description>Activitys Bot Group 12</description>
+    <schedule>every 10 minutes</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=13</url>
+    <description>Activitys Bot Group 13</description>
+    <schedule>every 10 minutes</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=14</url>
+    <description>Activitys Bot Group 14</description>
+    <schedule>every 10 minutes</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=15</url>
+    <description>Activitys Bot Group 15</description>
+    <schedule>every 10 minutes</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=16</url>
+    <description>Activitys Bot Group 16</description>
+    <schedule>every 10 minutes</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=17</url>
+    <description>Activitys Bot Group 17</description>
+    <schedule>every 10 minutes</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=18</url>
+    <description>Activitys Bot Group 18</description>
+    <schedule>every 10 minutes</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  <cron>
+    <url>/task/activitysBot?group=19</url>
+    <description>Activitys Bot Group 19</description>
+    <schedule>every 10 minutes</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+<!--   Activitys Bot Group 0
+  <cron>
+    <url>/task/activitysBot?group=0</url>
+    <description>Activitys Bot Group 0</description>
+    <schedule>every day 00:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=0</url>
+    <description>Activitys Bot Group 0</description>
+    <schedule>every day 06:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=0</url>
+    <description>Activitys Bot Group 0</description>
+    <schedule>every day 12:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=0</url>
+    <description>Activitys Bot Group 0</description>
+    <schedule>every day 18:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  Activitys Bot Group 1
+  <cron>
+    <url>/task/activitysBot?group=1</url>
+    <description>Activitys Bot Group 1</description>
+    <schedule>every day 00:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=1</url>
+    <description>Activitys Bot Group 1</description>
+    <schedule>every day 06:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=1</url>
+    <description>Activitys Bot Group 1</description>
+    <schedule>every day 12:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=1</url>
+    <description>Activitys Bot Group 1</description>
+    <schedule>every day 18:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  Activitys Bot Group 2
+  <cron>
+    <url>/task/activitysBot?group=2</url>
+    <description>Activitys Bot Group 2</description>
+    <schedule>every day 01:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=2</url>
+    <description>Activitys Bot Group 2</description>
+    <schedule>every day 07:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=2</url>
+    <description>Activitys Bot Group 2</description>
+    <schedule>every day 13:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=2</url>
+    <description>Activitys Bot Group 2</description>
+    <schedule>every day 19:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  Activitys Bot Group 3
+  <cron>
+    <url>/task/activitysBot?group=3</url>
+    <description>Activitys Bot Group 3</description>
+    <schedule>every day 01:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=3</url>
+    <description>Activitys Bot Group 3</description>
+    <schedule>every day 07:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=3</url>
+    <description>Activitys Bot Group 3</description>
+    <schedule>every day 13:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=3</url>
+    <description>Activitys Bot Group 3</description>
+    <schedule>every day 19:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  Activitys Bot Group 4
+  <cron>
+    <url>/task/activitysBot?group=4</url>
+    <description>Activitys Bot Group 4</description>
+    <schedule>every day 02:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=4</url>
+    <description>Activitys Bot Group 4</description>
+    <schedule>every day 08:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=4</url>
+    <description>Activitys Bot Group 4</description>
+    <schedule>every day 14:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=4</url>
+    <description>Activitys Bot Group 4</description>
+    <schedule>every day 20:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  Activitys Bot Group 5
+  <cron>
+    <url>/task/activitysBot?group=5</url>
+    <description>Activitys Bot Group 5</description>
+    <schedule>every day 02:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=5</url>
+    <description>Activitys Bot Group 5</description>
+    <schedule>every day 08:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=5</url>
+    <description>Activitys Bot Group 5</description>
+    <schedule>every day 14:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=5</url>
+    <description>Activitys Bot Group 5</description>
+    <schedule>every day 20:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  Activitys Bot Group 6
+  <cron>
+    <url>/task/activitysBot?group=6</url>
+    <description>Activitys Bot Group 6</description>
+    <schedule>every day 03:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=6</url>
+    <description>Activitys Bot Group 6</description>
+    <schedule>every day 09:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=6</url>
+    <description>Activitys Bot Group 6</description>
+    <schedule>every day 15:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=6</url>
+    <description>Activitys Bot Group 6</description>
+    <schedule>every day 21:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  Activitys Bot Group 7
+  <cron>
+    <url>/task/activitysBot?group=7</url>
+    <description>Activitys Bot Group 7</description>
+    <schedule>every day 03:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=7</url>
+    <description>Activitys Bot Group 7</description>
+    <schedule>every day 09:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=7</url>
+    <description>Activitys Bot Group 7</description>
+    <schedule>every day 15:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=7</url>
+    <description>Activitys Bot Group 7</description>
+    <schedule>every day 21:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  Activitys Bot Group 8
+  <cron>
+    <url>/task/activitysBot?group=8</url>
+    <description>Activitys Bot Group 8</description>
+    <schedule>every day 04:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=8</url>
+    <description>Activitys Bot Group 8</description>
+    <schedule>every day 10:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=8</url>
+    <description>Activitys Bot Group 8</description>
+    <schedule>every day 16:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=8</url>
+    <description>Activitys Bot Group 8</description>
+    <schedule>every day 22:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  Activitys Bot Group 9
+  <cron>
+    <url>/task/activitysBot?group=9</url>
+    <description>Activitys Bot Group 9</description>
+    <schedule>every day 04:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=9</url>
+    <description>Activitys Bot Group 9</description>
+    <schedule>every day 10:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=9</url>
+    <description>Activitys Bot Group 9</description>
+    <schedule>every day 16:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=9</url>
+    <description>Activitys Bot Group 9</description>
+    <schedule>every day 22:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  Activitys Bot Group 10
+  <cron>
+    <url>/task/activitysBot?group=10</url>
+    <description>Activitys Bot Group 10</description>
+    <schedule>every day 05:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=10</url>
+    <description>Activitys Bot Group 10</description>
+    <schedule>every day 11:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=10</url>
+    <description>Activitys Bot Group 10</description>
+    <schedule>every day 17:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=10</url>
+    <description>Activitys Bot Group 10</description>
+    <schedule>every day 23:00</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+
+  Activitys Bot Group 11
+  <cron>
+    <url>/task/activitysBot?group=11</url>
+    <description>Activitys Bot Group 11</description>
+    <schedule>every day 05:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=11</url>
+    <description>Activitys Bot Group 11</description>
+    <schedule>every day 11:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=11</url>
+    <description>Activitys Bot Group 11</description>
+    <schedule>every day 17:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+  <cron>
+    <url>/task/activitysBot?group=11</url>
+    <description>Activitys Bot Group 11</description>
+    <schedule>every day 23:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron> -->
+
+</cronentries>

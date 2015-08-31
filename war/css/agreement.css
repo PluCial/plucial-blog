@@ -1,0 +1,43 @@
+.wrap-inner {
+width: 600px;
+text-align: left;
+background: #fff;
+box-shadow: 0 0 3px 1px rgba(0,0,0,.05),0 1px 2px 0px rgba(0,0,0,.1);
+border-radius: 3px;
+padding: 40px 45px 10px;
+}
+
+.wrap-inner h2 {
+	font-size: 24px;
+color: #32353c;
+padding-top: 50px;
+padding-bottom: 30px;
+}
+
+.wrap-inner h3 {
+padding-top: 30px;
+padding-bottom: 10px;
+}
+
+.wrap-inner p {
+	padding-bottom: 22px;
+	color: #555;
+}
+
+.wrap-inner div.action-bar {
+	text-align: right;
+}
+
+.wrap-inner section {
+	margin-top: 20px;
+}
+
+section ul {
+	color: #555;
+	padding: 0 30px 30px 30px;
+	font-size: 14px;
+}
+
+section ul li {
+	padding-bottom: 10px;
+}

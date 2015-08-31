@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/junit-4.7.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/slim3-1.0.15.jar" sourcepath="libsrc/slim3-1.0.15-sources.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/twitter4j-core-4.0.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/twitter4j-media-support-4.0.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/facebook4j-core-2.1.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/evernote-sdk.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/scribe-java.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.gdt.eclipse.managedapis.MANAGED_API_CONTAINER/plus-v1r118lv1.16.0-rc"/>
+	<classpathentry kind="con" path="com.google.gdt.eclipse.managedapis.MANAGED_API_CONTAINER/oauth2-v2r64lv1.16.0-rc"/>
+	<classpathentry kind="con" path="com.google.gdt.eclipse.managedapis.MANAGED_API_CONTAINER/adsense-v1.4r7lv1.16.0-rc"/>
+	<classpathentry kind="con" path="com.google.gdt.eclipse.managedapis.MANAGED_API_CONTAINER/urlshortener-v1r33lv1.16.0-rc"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

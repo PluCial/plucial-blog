@@ -1,0 +1,29 @@
+.wrap-inner {
+width: 600px;
+text-align: left;
+background: #fff;
+box-shadow: 0 0 3px 1px rgba(0,0,0,.05),0 1px 2px 0px rgba(0,0,0,.1);
+border-radius: 3px;
+padding: 40px 45px 10px;
+background-image: url(/images/socialmedia.png);
+background-repeat: no-repeat;
+}
+
+.wrap-inner h2 {
+	font-size: 24px;
+color: #32353c;
+padding-bottom: 30px;
+}
+
+.wrap-inner p {
+	padding-bottom: 22px;
+	color: #92959c;
+}
+
+.wrap-inner div.action-bar {
+	text-align: right;
+}
+
+.wrap-inner section {
+	margin-top: 450px;
+}

@@ -1,0 +1,171 @@
+#lean_overlay {
+    position: fixed;
+    z-index:100;
+    top: 0px;
+    left: 0px;
+    height:100%;
+    width:100%;
+    background: #000;
+    display: none;
+}
+
+.popbox-info {
+	width: 600px;
+	padding: 30px;
+	display: none;
+	background: #FFF;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.7);
+	-webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.7);
+	-moz-box-shadow: 0 0px 4px rgba(0, 0, 0, 0.7);
+}
+
+
+.popbox {
+	width: 600px;
+	padding-bottom: 2px;
+	display: none;
+	background: #FFF;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.7);
+	-webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.7);
+	-moz-box-shadow: 0 0px 4px rgba(0, 0, 0, 0.7);
+}
+
+.popbox-header {
+	background: url(/images/popbox/hd-bg.png);
+	padding: 18px 18px 14px 18px;
+	border-bottom: 1px solid #CCC;
+	border-top-left-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-webkit-border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-webkit-border-top-right-radius: 5px;
+}
+
+.popbox-header h2 {
+color: #444;
+font-size: 14px;
+font-weight: 700;
+margin-bottom: 3px;
+text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+.popbox-header p {
+color: #444;
+font-size: 12px;
+margin: 0;
+text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+text-shadow: none;
+}
+
+.popbox-header .modal_close {
+position: absolute;
+top: 12px;
+right: 12px;
+display: block;
+width: 14px;
+height: 14px;
+background: url(/images/popbox/modal_close.png);
+z-index: 2;
+}
+
+.popbox .pop-response {
+	padding: 30px;
+}
+
+.popbox #action-bar {
+	display: none;
+	text-align: center;
+	padding: 20px;
+	display: table;
+	margin: auto;
+}
+
+.popbox #action-bar a {
+	background: #3F9D4A;
+	padding: 10px 20px;
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	order-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	font-weight: bold;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+	text-decoration: none;
+	display: block;
+}
+
+.popbox #action-bar a.modal_close {
+	background: #555;
+}
+
+.popbox #action-box {
+	text-align: center;
+	margin-bottom: -30px;
+}
+
+
+.popbox .txt-fld {
+position: relative;
+padding: 14px 20px;
+border-bottom: 1px solid #EEE;
+text-align: right;
+}
+
+.popbox .txt-fld label {
+display: block;
+float: left;
+width: 90px;
+padding-top: 8px;
+color: #222;
+font-size: 16px;
+text-align: left;
+}
+
+.popbox input,
+.popbox textarea {
+	width: 80%;
+	padding: 8px;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	font-size: 1.2em;
+	color: #222;
+	background: #F7F7F7;
+	font-family: "Helvetica Neue";
+	outline: none;
+	border-top: 1px solid #CCC;
+	border-left: 1px solid #CCC;
+	border-right: 1px solid #E7E6E6;
+	border-bottom: 1px solid #E7E6E6;
+}
+
+.popbox .btn-fld {
+overflow: hidden;
+padding: 12px 20px 12px 130px;
+}
+
+.popbox .btn-fld a {
+float: right;
+font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+background: #3F9D4A;
+border: none;
+width: auto;
+overflow: visible;
+font-size: 14px;
+color: #FFF;
+padding: 7px 10px;
+border-radius: 4px;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+font-weight: bold;
+text-shadow: 0 1px 0 rgba(0,0,0,0.4);
+text-decoration: none;
+}

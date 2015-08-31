@@ -1,0 +1,31 @@
+div.google_login {
+padding: 10px 5px;
+background: #fff;
+/* cursor: pointer; */
+line-height: 20px;
+border: 1px solid #e6e6e6;
+border-radius: 4px;
+font-size: 12px;
+color: #000;
+display: inline;
+}
+
+div.google_login .icon {
+width: 20px;
+height: 20px;
+display: inline-block;
+background: url('/images/btn_icons_sprite.png') transparent 0 -40px no-repeat;
+}
+
+dd > div.action-bar {
+	margin-top: 20px;
+	text-align: right;
+}
+
+dd > div.action-bar > a:nth-child(2) {
+	margin-left: 20px;
+}
+
+#popbox-contents > ul {
+	list-style-type: none;
+}

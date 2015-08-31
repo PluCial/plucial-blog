@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "PluCial",
+	"description": "Google+の投稿をブログ形式に保存し、自分の投稿をより検索しやすくする。",
+	"version": "1.1",
+	"icons": {
+		"128": "128.png"
+	},
+	"app": {
+		"urls": [
+			"http://plucial.com/"
+		],
+		"launch": {
+			"web_url": "http://plucial.com/"
+		}
+	},
+	"permissions": [
+	]
+}

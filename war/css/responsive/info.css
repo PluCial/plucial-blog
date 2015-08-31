@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+#contents {
+ 	margin-top: 51px;
+}
+
+section ul {
+color: #555;
+padding: 0 30px 30px 30px;
+font-size: 14px;
+}
+
+section ul li {
+padding-bottom: 10px;
+line-height: 1.5em;
+}
+
+#contents .welcome h1 {
+font-size: 1.8em;
+line-height: 1.8em;
+text-align: left;
+}
+
+#contents section h2 {
+font-size: 2.0em;
+padding: 0 0.5em;
+margin-top: 1.0em;
+}

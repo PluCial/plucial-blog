@@ -1,0 +1,163 @@
+body > section {
+	margin-top: 0;
+	padding-top: 74px;
+	padding-bottom: 70px;
+}
+
+span.stap {
+	padding-right: 30px;
+	color: #3098dc;
+}
+
+#about {
+/* 	margin-top: 43px; */
+/* 	background-color: #fff; */
+	padding-bottom: 0px;
+	background-image:
+		url(/images/index/about-back.png);
+	background-repeat: no-repeat;
+/* 	filter:alpha(opacity=85);
+     -moz-opacity:0.85;
+     -khtml-opacity: 0.85; */
+/*      opacity:0.35; */
+/*       color: #dadfe3; */
+      background-position:left bottom;
+}
+
+#about h3{
+	text-shadow: 0 3px 3px rgba(0,0,0,0.2);
+color: #fff;
+font-weight: bold;
+}
+
+body > section .wrap-inner {
+	text-align: center;
+}
+
+body > section h2 {
+	font-size: 70px;
+}
+
+body > section h3 {
+	font-size: 30px;
+ font-weight: normal;
+}
+
+body > section .wrap-inner > p {
+	padding: 30px 0;
+	font-size: 20px;
+}
+
+/* .glife .wrap-inner {
+	background-image:
+		url(/images/index/google_plus_back.png);
+	background-repeat: no-repeat;
+} */
+
+#about p {
+	padding-top: 30px;
+	font-size: 28px;
+	color: #fff;
+ 	text-shadow: 0 2px 2px rgba(0,0,0,0.2);
+}
+
+#about #promotion {
+	width: 678px;
+	height: 407px;
+	background-image:
+		url(/images/index/img_mac_back.png);
+	background-repeat: no-repeat;
+	margin-top: 40px;
+	padding-left: 750px;
+	text-align: left;
+}
+
+#about #promotion p{
+	font-size: 20px;
+/* 	color: #dadfe3; */
+}
+
+#about #promotion .login-action {
+	margin-top: 100px;
+}
+
+#about #promotion .login-action a {
+margin: 0;
+}
+
+#about .bk-img {
+	background-image: url(/images/index/fotolia_social.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 400px;
+}
+
+.login-action a {
+	width: 280px;
+	margin: 0 auto;
+}
+
+section.glife {
+ 	background-color: #fff;
+}
+
+section.adsense {
+/* 	background-color: #fff; */
+	padding-bottom: 0px;
+}
+
+section.adsense .wrap-inner > div {
+	padding-left: 300px;
+	background-image: url(/images/index/adsense-bk-img.png);
+	background-repeat: no-repeat;
+	max-width: 600px;
+	margin: 0 auto;
+	min-height: 360px;
+}
+
+section .wrap-inner > div p {
+	font-size: 16px;
+}
+
+section.adsense .wrap-inner > div p {
+text-align: left;
+padding-left: 30px;
+}
+
+section.glife ul,
+section.report ul {
+width: 340px;
+margin: 20px auto;
+margin-top: 0;
+text-align: left;
+}
+
+section.glife ul li,
+section.report ul li{
+	padding: 5px 0;
+}
+
+section.follow {
+ 	background-color: #fff;
+}
+
+body>footer {
+margin-top: 0px;
+}
+
+
+#example-user-list {
+	text-align: center;
+	padding: 0 150px;
+}
+
+#example-user-list li {
+	line-height: 30px;
+	display: -moz-inline-box;
+  	display: inline-block;
+	padding-right: 10px;
+}
+
+#example-user-list li img {
+	border-radius: 50%;
+}

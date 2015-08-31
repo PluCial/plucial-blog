@@ -1,0 +1,25 @@
+<backends>
+    <backend name="activitys-backend">
+        <class>B1</class>
+        <instances>1</instances>
+        <options>
+            <dynamic>true</dynamic>
+        </options>
+    </backend>
+
+    <backend name="twitter-backend">
+        <class>B1</class>
+        <instances>1</instances>
+        <options>
+            <dynamic>true</dynamic>
+        </options>
+    </backend>
+
+    <backend name="facebook-backend">
+        <class>B1</class>
+        <instances>1</instances>
+        <options>
+            <dynamic>true</dynamic>
+        </options>
+    </backend>
+</backends>

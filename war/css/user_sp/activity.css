@@ -1,0 +1,113 @@
+/*
+	Main contents
+*/
+.activity-box {
+	border: 1px solid #bcbfc3;
+	box-shadow: 0 0 0.3em rgba(202, 203, 209, 0.2), 0 1px 0.3em
+		rgba(0, 0, 0, 0.1);
+	border-radius: 0.2em;
+	background: #fff;
+	font-size: 14px;
+	margin: 0 10px;
+	margin-top: 1em;
+	padding-left: 0.78em;
+	padding-right: 0.78em;
+}
+
+.activity-box:first-child {
+	margin-top: 0;
+}
+
+.activity-box img {
+	max-width: 100%;
+}
+
+.activity-box header {
+position: relative;
+z-index: 0;
+font-size: 14px;
+text-align: right;
+padding-top: 10px;
+padding-bottom: 10px;
+border-bottom: 1px solid #dadada;
+margin-bottom: 10px;
+}
+
+.activity-box p {
+	font-size: 1.05em;
+	line-height: 1.60em;
+	margin-bottom: 10px;
+}
+
+.activity-box p:last-child {
+	margin-bottom: 20px;
+}
+
+.activity-box header .activity_public_checkbox {
+position: absolute;
+z-index: 0;
+top: 10px;
+left: 0;
+text-align: right;
+}
+
+.activity-box header .activity-time-box {
+position: absolute;
+z-index: 0;
+top: 10px;
+right: 0;
+text-align: right;
+}
+
+.activity-box header h2 {
+margin-top: 30px;
+text-align: left;
+font-size: 16px;
+line-height: 29px;
+}
+
+.activity-box .img-box {
+text-align: center;
+}
+
+.activity-box .txt-box {
+	padding-top: 10px;
+}
+
+.activity-box .attachments-inner {
+	padding-top: 5px;
+	padding-bottom: 5px;
+ 	margin-bottom: 5px;
+	background-color: #EFEFEF;
+}
+
+.activity-box .attachments-inner .txt-box {
+	padding: 5px;
+}
+
+.activity-box .attachments-inner p {
+	margin-bottom: 0;
+}
+
+.content-inner {
+padding-top: 10px;
+}
+
+.content-inner .actor-inner {
+	margin-bottom: 20px;
+}
+
+.content-inner .actor-inner:last-child {
+	margin-bottom: 20px;
+}
+
+.actor-inner .actor-img {
+	margin-bottom: 5px;
+}
+
+.actor-inner .actor-img img {
+border-radius: 50%;
+vertical-align: middle;
+margin-right: 10px;
+}
+

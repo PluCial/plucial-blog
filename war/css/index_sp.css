@@ -1,0 +1,120 @@
+
+
+.login-action a,
+#main-menu #input_activity_button {
+	width: 160px;
+	display: block;
+	background: #428ad6;
+	box-shadow: inset 1px 1px 1px #61a3e8, inset -1px 0 1px #61a3e8, 0 1px
+		0.1em rgba(1, 1, 1, 0.23);
+	line-height: 2.8em;
+	color: #ededed;
+	padding: 0 1em;
+	border-radius: 0.15em;
+	font-weight: bold;
+	font-size: 14px;
+	border: 0;
+	text-shadow: 0 -0.1em 0 rgba(27, 93, 162, 0.48);
+	margin: 0 auto;
+	text-align: center;
+}
+
+/*
+	Main contents
+*/
+div#main-wrap {
+	width: 100%;
+	position: absolute;
+	margin-top: 40px;
+}
+
+section {
+margin-top: 0;
+padding: 35px 5px;
+}
+
+.wrap-inner {
+text-align: center;
+}
+
+span.stap {
+padding-right: 10px;
+color: #3098dc;
+}
+
+section h3 {
+font-size: 18px;
+}
+
+.wrap-inner > p {
+padding: 20px 10px;
+font-size: 16px;
+text-align: left;
+line-height: 29px;
+}
+
+
+
+
+
+
+#about {
+background-color: #fff;
+}
+
+#promotion {
+/* background-color: #fff; */
+padding-bottom: 0px;
+	background-image:
+		url(/images/index/about-back_sp.png);
+	background-repeat: no-repeat;
+	background-position:center center;
+	padding-top: 250px;
+	padding-bottom: 30px;
+}
+
+#about h2 {
+	font-size: 20px;
+}
+
+/* #about p {
+	padding-top: 15px;
+	font-size: 28px;
+	color: #fff;
+ 	text-shadow: 0 2px 2px rgba(0,0,0,0.2);
+} */
+
+#about h2 span {
+	color: #dd4b39;
+	font-size: 20px;
+	margin: 0 5px;
+}
+
+#about h2 img {
+	vertical-align: middle;
+}
+
+#about p {
+	padding-top: 10px;
+	font-size: 16px;
+	text-align: center;
+	font-weight: bold;
+}
+
+#about .bk-img {
+	margin-top: 20px;
+background-image: url(/images/index/fotolia_social.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size:cover;
+min-height: 100px;
+}
+
+
+section.glife {
+/* 	background-color: #fff; */
+}
+
+section.adsense {
+background-color: #fff;
+}

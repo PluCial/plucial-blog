@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+.action-box {
+text-align: right;
+}
+
+.action-box a {
+display: inline-block;
+border: 1px solid #c3c3c3;
+padding: 0 1em;
+border-radius: 0.15em;
+color: #4c4f53;
+font-weight: bold;
+background: #f0f0f0;
+background: -webkit-linear-gradient(top, #fcfcfc,#f0f0f0);
+background: -ms-linear-gradient(top, #fafafa,#f0f0f0);
+background: -moz-linear-gradient(top, #fafafa,#f0f0f0);
+background: -o-linear-gradient(top, #fafafa,#f0f0f0);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fafafa',endColorstr='#f0f0f0');
+box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+line-height: 2.45em;
+font-size: 12px;
+text-shadow: 0 1px 0 #fff;
+border-color: #c3c3c3 #bebebe #b6b6b6;
+text-decoration: none;
+}
